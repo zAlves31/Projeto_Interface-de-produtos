@@ -1,0 +1,15 @@
+C:\Users\52546124870\Desktop\Senai_Back-End\Projeto_produto-interface\bin\Debug\net7.0\Projeto_produto-interface.exe
+C:\Users\52546124870\Desktop\Senai_Back-End\Projeto_produto-interface\bin\Debug\net7.0\Projeto_produto-interface.deps.json
+C:\Users\52546124870\Desktop\Senai_Back-End\Projeto_produto-interface\bin\Debug\net7.0\Projeto_produto-interface.runtimeconfig.json
+C:\Users\52546124870\Desktop\Senai_Back-End\Projeto_produto-interface\bin\Debug\net7.0\Projeto_produto-interface.dll
+C:\Users\52546124870\Desktop\Senai_Back-End\Projeto_produto-interface\bin\Debug\net7.0\Projeto_produto-interface.pdb
+C:\Users\52546124870\Desktop\Senai_Back-End\Projeto_produto-interface\obj\Debug\net7.0\Projeto_produto-interface.csproj.AssemblyReference.cache
+C:\Users\52546124870\Desktop\Senai_Back-End\Projeto_produto-interface\obj\Debug\net7.0\Projeto_produto-interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52546124870\Desktop\Senai_Back-End\Projeto_produto-interface\obj\Debug\net7.0\Projeto_produto-interface.AssemblyInfoInputs.cache
+C:\Users\52546124870\Desktop\Senai_Back-End\Projeto_produto-interface\obj\Debug\net7.0\Projeto_produto-interface.AssemblyInfo.cs
+C:\Users\52546124870\Desktop\Senai_Back-End\Projeto_produto-interface\obj\Debug\net7.0\Projeto_produto-interface.csproj.CoreCompileInputs.cache
+C:\Users\52546124870\Desktop\Senai_Back-End\Projeto_produto-interface\obj\Debug\net7.0\Projeto_produto-interface.dll
+C:\Users\52546124870\Desktop\Senai_Back-End\Projeto_produto-interface\obj\Debug\net7.0\refint\Projeto_produto-interface.dll
+C:\Users\52546124870\Desktop\Senai_Back-End\Projeto_produto-interface\obj\Debug\net7.0\Projeto_produto-interface.pdb
+C:\Users\52546124870\Desktop\Senai_Back-End\Projeto_produto-interface\obj\Debug\net7.0\Projeto_produto-interface.genruntimeconfig.cache
+C:\Users\52546124870\Desktop\Senai_Back-End\Projeto_produto-interface\obj\Debug\net7.0\ref\Projeto_produto-interface.dll

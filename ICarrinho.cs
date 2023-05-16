@@ -20,7 +20,7 @@ namespace Projeto_produto_interface
         void Listar();
 
         // Update
-        void Atualizar(int codigo,Produto produto);
+        void Atualizar(int codigo,Produto _novoProduto);
 
         // Delete
         void Remover(Produto produto);

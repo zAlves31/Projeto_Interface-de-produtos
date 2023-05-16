@@ -19,7 +19,7 @@ namespace Projeto_produto_interface
 
         public void Listar()
         {
-            if (carrinho != null)
+            if (carrinho.Count > 0)
             {
                 foreach (var Produto in carrinho)
                 {
@@ -40,5 +40,25 @@ namespace Projeto_produto_interface
         {
             carrinho.Remove(produto);
         }
-    }
+        public void ValorTotal()
+        {
+            valor = 0;
+
+            if (carrinho.Count > 0 || carrinho != null)
+            {
+                foreach (Produto item in carrinho)
+                {
+                   valor += item.Preco;
+                }
+                Console.WriteLine($"o total do seu carrinho esta em : {valor:C}");
+                
+            }
+            else
+            {
+                Console.WriteLine($"Seu carrinho esta vazio");
+                
+            }
+        }
+
+    }   
 }
